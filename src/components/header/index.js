@@ -8,6 +8,7 @@ const Header = () => {
   return (
     <div className='header-container'>
       <img className='logo' src='https://d1hzl1rkxaqvcd.cloudfront.net/contest_entries/2099580/_600px/7325f77640c92dc603394adcdb428b5c.jpg' alt='' />
+      <h3 className='header-title'>Demir Hukuk Bürosu</h3>
       <nav className='header-nav'>
         <ul>
           <li>
